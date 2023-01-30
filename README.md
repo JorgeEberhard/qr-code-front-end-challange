@@ -8,8 +8,10 @@ In this website i've used mainly Flex box for positionin, as it is often used in
 
 The design is based on the images below:
 
-![Desktop Design](./design/desktop-design.jpg)
-`This is the desktop design`
 
+## Desktop Design 
+![Desktop Design](./design/desktop-design.jpg)
+
+
+## Mobile Design
 ![Mobile Design](./design/mobile-design.jpg)
-`This is the mobile design`
